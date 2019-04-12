@@ -1,0 +1,24 @@
+{
+  "name": "scrollhook",
+  "version": "1.0.0",
+  "description": "Browser scroll hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/scrollhook.git"
+  },
+  "keywords": [
+    "scroll",
+    "hook",
+    "browser"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/scrollhook/issues"
+  },
+  "homepage": "https://github.com/bredele/scrollhook#readme"
+}
